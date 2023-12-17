@@ -41,7 +41,7 @@ For each picture filename.png, this will create a perturbed picture filename_clo
 
 Original Picture | Picture perturbed with Fawkes
 -----------------|-----------------
-<img src="Adam_Sandler_original.jpg" alt="original picture" width="224"/> | <img src="Adam_Sandler_fawkes3.png" alt="perturbed picture" width="224"/> 
+<img src="Adam_Sandler_original.jpeg" alt="original picture" width="224"/> | <img src="Adam_Sandler_fawkes3.png" alt="perturbed picture" width="224"/> 
 2. To perturb all images of one user with Fawkes v1.0: 
 ```sh
 python fawkes1_to_perturb/fawkes/protection.py --gpu 0 -d facescrub/download/Adam_Sandler/face --batch-size 1 -m high --no-align
@@ -50,7 +50,7 @@ For each picture filename.png, this will create a perturbed picture filename_clo
 
 Original Picture | Picture perturbed with Fawkes
 -----------------|-----------------
-<img src="Adam_Sandler_original.jpg" alt="original picture" width="224"/> | <img src="Adam_Sandler_fawkes1.png" alt="perturbed picture" width="224"/>
+<img src="Adam_Sandler_original.jpeg" alt="original picture" width="224"/> | <img src="Adam_Sandler_fawkes1.png" alt="perturbed picture" width="224"/>
 3. To perturb all images of one user with Lowkey: 
 ```sh
 cd lowkey
@@ -61,7 +61,7 @@ For each picture filename.png, this will create a resized picture filename_small
 
 Original Picture | Picture perturbed with Fawkes
 -----------------|-----------------
-<img src="Adam_Sandler_original.jpg" alt="original picture" width="224"/> | <img src="Adam_Sandler_lowkey.png" alt="perturbed picture" width="224"/>
+<img src="Adam_Sandler_original.jpeg" alt="original picture" width="224"/> | <img src="Adam_Sandler_lowkey.png" alt="perturbed picture" width="224"/>
 
 # Defense Setup
 Three common facial recognition approaches are considered:
