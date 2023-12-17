@@ -222,7 +222,7 @@ Results:
 
 Fawkes v0.3 (oblivious NN) |  Fawkes v1.0 (oblivious NN) | Lowkey (oblivious NN)| 50% Fawkes v1.0 and 50% Fawkes v0.3 (oblivious NN)
 ---------------------|---------------------|--------------------- |--------------------- 
-```Protection rate: 0.89```|```Protection rate: 0.94``` |```Protection rate: 1.00```  |```Protection rate: 0.94```   
+```Protection rate: 0.07```|```Protection rate: 0.06``` |```Protection rate: 1.00```  |```Protection rate: 0.06```   
 
 ### 3. CLIP 
 1. To evaluate Fawkes v0.3 attack: 
@@ -249,7 +249,7 @@ Results:
 
 Fawkes v0.3 (oblivious NN) |  Fawkes v1.0 (oblivious NN) | Lowkey (oblivious NN)| 50% Fawkes v1.0 and 50% Fawkes v0.3 (oblivious NN)
 ---------------------|---------------------|--------------------- |--------------------- 
-```Protection rate: 0.44```|```Protection rate: 0.89``` |```Protection rate: 0.67```  |```Protection rate: 0.56```   
+```Protection rate: 0.14```|```Protection rate: 0.23``` |```Protection rate: 0.67```  |```Protection rate: 0.16```   
 
 ### 4. VGG-Face
 1. To evaluate Fawkes v0.3 attack: 
