@@ -139,6 +139,7 @@ Results:
 Fawkes v0.3 (adaptive NN) |  Fawkes v1.0 (adaptive NN) | Lowkey (adaptive NN)
 ---------------------|---------------------|--------------------- 
 ```Protection rate: 0.06```|```Protection rate: 0.22``` |```Protection rate: 0.22``` 
+
 The `--classifier` argument is set to linear to train a linear classifier instead of a nearest neighbor one. 
 
 
